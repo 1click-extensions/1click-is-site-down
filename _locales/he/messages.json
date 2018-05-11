@@ -1,0 +1,10 @@
+{
+  "offline": {"message": "לא הצלחנו להגיע לרשת. האם הרשת שלך פועלת?" },
+  "site_is_not_down": {"message": "האתר פעיל" },
+  "site_is_down": {"message": "האתר אינו פעיל" },
+  "please_wait": {"message": "אנא המתן" },
+  "browser_action": {"message": "האם האתר באוויר" },
+  "ext_desc": {"message": "בדוק אם כתובת אתר לא עובדת רק לך או עבור כולם" },
+  "ext_name": {"message": "האם האתר עובד בלחיצה אחת" }
+}
+
