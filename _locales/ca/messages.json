@@ -1,5 +1,6 @@
 {
   "offline": {"message": "We can't reach the web. Is your network up?" },
+  "paste": {"message": "Paste url or use current" },
   "site_is_not_down": {"message": "The site is up" },
   "site_is_down": {"message": "The site is down" },
   "please_wait": {"message": "Please wait" },

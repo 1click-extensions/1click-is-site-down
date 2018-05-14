@@ -1,5 +1,6 @@
 {
   "offline": {"message": "לא הצלחנו להגיע לרשת. האם הרשת שלך פועלת?" },
+  "paste": {"message": "הדבק כתובת או השתמש בנוכחית" },
   "site_is_not_down": {"message": "האתר פעיל" },
   "site_is_down": {"message": "האתר אינו פעיל" },
   "please_wait": {"message": "אנא המתן" },
