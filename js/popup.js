@@ -1,7 +1,9 @@
 var query = { active: true, currentWindow: true },
     urlInput = document.getElementById('url'),
     message = document.getElementById('message'),
+    title = document.getElementById('title'),
     sub = document.getElementById('submit');
+title.innerText = chrome.i18n.getMessage("paste");
 chrome.tabs.query(query, (tabs)=>{
     if(tabs && tabs[0]){
         urlInput.value = tabs[0].url;
