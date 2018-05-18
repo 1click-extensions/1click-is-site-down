@@ -1,1 +1,1 @@
-1click-edit-page-content
+1Click-edit-page-content

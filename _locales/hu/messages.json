@@ -6,6 +6,6 @@
   "please_wait": {"message": "Please wait" },
   "browser_action": {"message": "Is site down" },
   "ext_desc": {"message": "Check if url is down for everone or just to you" },
-  "ext_name": {"message": "1click is site down" }
+  "ext_name": {"message": "1Click is site down" }
 }
 
