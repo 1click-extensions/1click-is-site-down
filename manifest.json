@@ -1,11 +1,10 @@
   {
     "name": "__MSG_ext_name__",
     "short_name": "__MSG_ext_name__",
-    "version": "1.1",
+    "version": "1.2",
     "description": "__MSG_ext_desc__",
     "permissions": [
-          "activeTab",
-          "https://utils.1ce.org/is-site-down"
+          "activeTab"
         ],
     "background": {
       "page": "pages/background.html",
