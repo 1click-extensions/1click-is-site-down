@@ -26,5 +26,8 @@ sub.addEventListener('click', ()=>{
         else{
             message.innerText = chrome.i18n.getMessage("site_is_not_down");
         }
+        chrome.runtime.sendMessage({
+            action: 'injectJs'
+        });
     });
 })
